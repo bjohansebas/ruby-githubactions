@@ -1,4 +1,7 @@
 # Site settings
+url: "https://bjohansebas.github.io"
+baseurl: "/ruby-githubactions"
+
 
 defaults:
   -
